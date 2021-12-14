@@ -1,0 +1,6 @@
+# Phase 1 users
+*              FAST
+
+# Phase 2 users
+"user"         MSCHAPV2                   "password"                      [2]
+"espressif"    MSCHAPV2                   "test11"                        [2]
